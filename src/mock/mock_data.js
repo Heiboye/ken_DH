@@ -50,6 +50,12 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1759565866003",
+          "name": "Google Gemini",
+          "url": "https://gemini.google.com/",
+          "description": ""
+        },
+        {
           "id": "chatgpt",
           "name": "ChatGPT",
           "url": "https://chat.openai.com",
@@ -481,7 +487,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Ken的导航",
-  "_fileSha": "d39fdc081f35dc7b72330288621dba5e7fdeb437",
-  "search": "google"
+  "title": "猫猫导航🐱"
 }
