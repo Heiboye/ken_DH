@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "my-favorites",
       "name": "我的常用",
-      "icon": "🌐",
+      "icon": "",
       "order": 0,
       "sites": [
         {
@@ -46,7 +46,7 @@ export const mockData = {
     {
       "id": "ai-tools",
       "name": "AI智能",
-      "icon": "🌐",
+      "icon": "",
       "order": 1,
       "sites": [
         {
@@ -96,7 +96,7 @@ export const mockData = {
     {
       "id": "cloud",
       "name": "云服务",
-      "icon": "☁️",
+      "icon": "",
       "order": 2,
       "sites": [
         {
@@ -153,7 +153,7 @@ export const mockData = {
     {
       "id": "dev-tools",
       "name": "开发工具",
-      "icon": "🛠️",
+      "icon": "",
       "order": 3,
       "sites": [
         {
@@ -203,7 +203,7 @@ export const mockData = {
     {
       "id": "community",
       "name": "社区论坛",
-      "icon": "👥",
+      "icon": "",
       "order": 6,
       "sites": [
         {
@@ -246,7 +246,7 @@ export const mockData = {
     {
       "id": "design",
       "name": "设计工具",
-      "icon": "🎨",
+      "icon": "",
       "order": 4,
       "sites": [
         {
@@ -282,7 +282,7 @@ export const mockData = {
     {
       "id": "finance",
       "name": "财经投资",
-      "icon": "💰",
+      "icon": "",
       "order": 5,
       "sites": [
         {
@@ -346,7 +346,7 @@ export const mockData = {
     {
       "id": "learning",
       "name": "学习资源",
-      "icon": "📚",
+      "icon": "",
       "order": 6,
       "sites": [
         {
@@ -382,7 +382,7 @@ export const mockData = {
     {
       "id": "tools",
       "name": "在线工具",
-      "icon": "⚙️",
+      "icon": "",
       "order": 7,
       "sites": [
         {
@@ -418,7 +418,7 @@ export const mockData = {
     {
       "id": "entertainment",
       "name": "娱乐休闲",
-      "icon": "🎮",
+      "icon": "",
       "order": 8,
       "sites": [
         {
@@ -454,7 +454,7 @@ export const mockData = {
     {
       "id": "office",
       "name": "办公协作",
-      "icon": "💼",
+      "icon": "",
       "order": 9,
       "sites": [
         {
@@ -488,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Ken的导航",
-  "_fileSha": "a866bbed1e04509cf4b64592817465974d5d5324"
+  "title": "猫猫导航🐱"
 }
