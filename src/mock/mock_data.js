@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "my-favorites",
       "name": "我的常用",
-      "icon": "🌐",
+      "icon": "",
       "order": 0,
       "sites": [
         {
@@ -53,7 +53,8 @@ export const mockData = {
           "id": "site-1759565866003",
           "name": "Google Gemini",
           "url": "https://gemini.google.com/",
-          "description": ""
+          "description": "谷歌旗下Ai",
+          "icon": "https://i.ibb.co/KxHJC4Fk/gemini-ai.png"
         },
         {
           "id": "chatgpt",
