@@ -46,7 +46,7 @@ export const mockData = {
     {
       "id": "ai-tools",
       "name": "AI智能",
-      "icon": "🤖",
+      "icon": "",
       "order": 1,
       "sites": [
         {
@@ -488,7 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Ken的导航",
-  "_fileSha": "5852177fb1971eae67f118b2480b156fd58bd897",
-  "search": "google"
+  "title": "猫猫导航🐱"
 }
