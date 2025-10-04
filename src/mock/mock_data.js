@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "my-favorites",
       "name": "我的常用",
-      "icon": "💥",
+      "icon": "🌐",
       "order": 0,
       "sites": [
         {
